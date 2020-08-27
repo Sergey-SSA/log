@@ -6,3 +6,4 @@
     line: '\1'
     backrefs: yes
   notify: restart audit
+...

@@ -4,3 +4,4 @@
     name: nginx
     state: present
   notify: restart nginx
+...
